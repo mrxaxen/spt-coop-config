@@ -13,7 +13,6 @@
 !*.json
 !*.jsonc
 !*.txt
-!*.js
 !*.ts
 
 **/cache/
