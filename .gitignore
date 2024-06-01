@@ -1,13 +1,15 @@
 /*
+*.*
 
 !/user
+!/user/mods/ServerValueModifier/src/*
+
 !/Aki_Data
+
 !/BepInEx
 !/BepInEx/plugins
 /BepInEx/plugins/*
 !/BepInEx/plugins/SAIN
-
-*.*
 
 !.gitignore
 !*.json
