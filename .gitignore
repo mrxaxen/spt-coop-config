@@ -1,0 +1,15 @@
+/*
+
+!/user
+!/Aki_Data
+
+*.*
+
+!.gitignore
+!*.json
+!*.jsonc
+!*.txt
+!*.js
+!*.ts
+
+**/cache/

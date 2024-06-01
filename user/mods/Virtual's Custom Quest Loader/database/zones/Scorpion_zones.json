@@ -1,0 +1,398 @@
+[
+  {
+    "ZoneId": "scorpion_gz_ambulance_0_marker",
+    "ZoneName": "scorpion_gz_ambulance_0_marker",
+    "ZoneLocation": "Sandbox",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "80.30547",
+      "Y": "24.07533",
+      "Z": "226.7141"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "3.25",
+      "Y": "2",
+      "Z": "7.25"
+    }
+  },
+  {
+    "ZoneId": "scorpion_gz_ambulance_1_marker",
+    "ZoneName": "scorpion_gz_ambulance_1_marker",
+    "ZoneLocation": "Sandbox",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "63.45448",
+      "Y": "24.07728",
+      "Z": "89.75129"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "20.5",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "3.25",
+      "Y": "2",
+      "Z": "6"
+    }
+  },
+  {
+    "ZoneId": "scorpion_gz_ambulance_2_marker",
+    "ZoneName": "scorpion_gz_ambulance_2_marker",
+    "ZoneLocation": "Sandbox",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "158.3343",
+      "Y": "24.1111",
+      "Z": "-88.77029"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "168",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "6.25",
+      "Y": "2",
+      "Z": "3.25"
+    }
+  },
+  {
+    "ZoneId": "scorpion_factory_exit_0",
+    "ZoneName": "scorpion_factory_exit_0",
+    "ZoneLocation": "factory4_night",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "63.21623",
+      "Y": "-2.632055",
+      "Z": "-28.54614"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "1.25",
+      "Y": "3.25",
+      "Z": "2"
+    }
+  },
+  {
+    "ZoneId": "scorpion_factory_exit_1",
+    "ZoneName": "scorpion_factory_exit_1",
+    "ZoneLocation": "factory4_night",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-15.93904",
+      "Y": "1.307255",
+      "Z": "-58.20099"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2",
+      "Y": "2.25",
+      "Z": "1.75"
+    }
+  },
+  {
+    "ZoneId": "scorpion_factory_exit_2",
+    "ZoneName": "scorpion_factory_exit_2",
+    "ZoneLocation": "factory4_night",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-59.06703",
+      "Y": "2.285631",
+      "Z": "58.22046"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "1.5",
+      "Y": "2",
+      "Z": "2.5"
+    }
+  },
+  {
+    "ZoneId": "scorpion_factory_exit_3",
+    "ZoneName": "scorpion_factory_exit_3",
+    "ZoneLocation": "factory4_night",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "56.52026",
+      "Y": "1.183088",
+      "Z": "60.10578"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "1.75",
+      "Y": "2",
+      "Z": "1.75"
+    }
+  },
+  {
+    "ZoneId": "scorpion_2fl_dorms_213",
+    "ZoneName": "scorpion_2fl_dorms_213",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "228.8841",
+      "Y": "3.871597",
+      "Z": "164.2464"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.08932889",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "5.5",
+      "Y": "2.75",
+      "Z": "2"
+    }
+  },
+  {
+    "ZoneId": "scorpion_3fl_dorms_115",
+    "ZoneName": "scorpion_3fl_dorms_115",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "190.6794",
+      "Y": "0.8317988",
+      "Z": "178.5991"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.06757996",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "1.5",
+      "Y": "2",
+      "Z": "1.75"
+    }
+  },
+  {
+    "ZoneId": "scorpion_3fl_dorms_206",
+    "ZoneName": "scorpion_3fl_dorms_206",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "172.9314",
+      "Y": "3.893329",
+      "Z": "153.4115"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.0348995",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "1.75",
+      "Y": "2.25",
+      "Z": "1.5"
+    }
+  },
+  {
+    "ZoneId": "scorpion_3fl_dorms_212",
+    "ZoneName": "scorpion_3fl_dorms_212",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "176.8356",
+      "Y": "3.831593",
+      "Z": "181.8597"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.06104854",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "1.75",
+      "Y": "2.25",
+      "Z": "1.75"
+    }
+  },
+  {
+    "ZoneId": "scorpion_3fl_dorms_310",
+    "ZoneName": "scorpion_3fl_dorms_310",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "176.6819",
+      "Y": "7.08158",
+      "Z": "181.6478"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.06322598",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2.25",
+      "Y": "2.5",
+      "Z": "1.5"
+    }
+  },
+  {
+    "ZoneId": "scorpion_shoreline_sanitorium_killzone",
+    "ZoneName": "scorpion_shoreline_sanitorium_killzone",
+    "ZoneLocation": "Shoreline",
+    "ZoneType": "botkillzone",
+    "FlareType": "",
+    "Position": {
+      "X": "-251.0284",
+      "Y": "9.609024",
+      "Z": "-117.7321"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "248.5",
+      "Y": "29.5",
+      "Z": "122"
+    }
+  },
+  {
+    "ZoneId": "scorpion_customs_zb012",
+    "ZoneName": "scorpion_customs_zb012",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "471.2749",
+      "Y": "-1.506827",
+      "Z": "-112.866"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.04797813",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2",
+      "Y": "2.5",
+      "Z": "1.5"
+    }
+  },
+  {
+    "ZoneId": "scorpion_customs_zb011",
+    "ZoneName": "scorpion_customs_zb011",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "634.3759",
+      "Y": "-1.650039",
+      "Z": "-128.3362"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0.06975647",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "1.5",
+      "Y": "2.5",
+      "Z": "1.5"
+    }
+  },
+  {
+    "ZoneId": "scorpion_customs_zb013",
+    "ZoneName": "scorpion_customs_zb013",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "200.3717",
+      "Y": "-1.969651",
+      "Z": "-149.0952"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "-0.07062699",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "1.3",
+      "Y": "1.7",
+      "Z": "1.5"
+    }
+  },
+  {
+    "ZoneId": "scorpion_interchange_2fl_hallarea",
+    "ZoneName": "scorpion_interchange_2fl_hallarea",
+    "ZoneLocation": "Interchange",
+    "ZoneType": "botkillzone",
+    "FlareType": "",
+    "Position": {
+      "X": "28.59651",
+      "Y": "39.56964",
+      "Z": "-54.47475"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "158.75",
+      "Y": "6",
+      "Z": "31"
+    }
+  },
+  {
+    "ZoneId": "scorpion_interchange_techlight",
+    "ZoneName": "scorpion_interchange_techlight",
+    "ZoneLocation": "Interchange",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "97.22383",
+      "Y": "37.06973",
+      "Z": "65.86802"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "1.5",
+      "Y": "2.5",
+      "Z": "2"
+    }
+  }
+]
