@@ -1,0 +1,10 @@
+{
+  "Name": "Custom Extract",
+  "Description": "Rouges stay pmcs extract later",
+  "Creator": "Xaxen",
+  "SAINVersion": "2.2.0",
+  "DateCreated": "05/22/2024 17:41:17",
+  "IsCustom": true,
+  "PresetCopiedFrom": "3. Default Copy()",
+  "CanEditName": true
+}
