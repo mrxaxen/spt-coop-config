@@ -1,0 +1,44 @@
+{
+    "info": {
+        "id": "663a7cdd0001894f74171099",
+        "scavId": "663a7cdd00007d92dc1c9fde",
+        "aid": 1425070,
+        "username": "MrXaxen",
+        "password": "",
+        "wipe": true,
+        "edition": "Edge Of Darkness"
+    },
+    "characters": {
+        "pmc": {},
+        "scav": {}
+    },
+    "vitality": {
+        "health": {
+            "Hydration": 0,
+            "Energy": 0,
+            "Temperature": 0,
+            "Head": 0,
+            "Chest": 0,
+            "Stomach": 0,
+            "LeftArm": 0,
+            "RightArm": 0,
+            "LeftLeg": 0,
+            "RightLeg": 0
+        },
+        "effects": {
+            "Head": {},
+            "Chest": {},
+            "Stomach": {},
+            "LeftArm": {},
+            "RightArm": {},
+            "LeftLeg": {},
+            "RightLeg": {}
+        }
+    },
+    "inraid": {
+        "location": "none",
+        "character": "none"
+    },
+    "insurance": [],
+    "dialogues": {}
+}

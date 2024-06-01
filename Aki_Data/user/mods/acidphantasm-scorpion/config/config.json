@@ -1,0 +1,8 @@
+{
+    "priceMultiplier": 1,
+
+    "traderRefreshMin": 1800,
+    "traderRefreshMax": 3600,
+
+    "addTraderToFlea": true
+}
