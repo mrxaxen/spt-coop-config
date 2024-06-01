@@ -10,6 +10,7 @@
 !/BepInEx/plugins
 /BepInEx/plugins/*
 !/BepInEx/plugins/SAIN
+!/BepInEx/plugins/dvize.Donuts
 
 !.gitignore
 !*.json
